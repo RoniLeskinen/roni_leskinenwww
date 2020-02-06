@@ -1,0 +1,22 @@
+body{
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+    background-color:black;
+}
+
+.heading{
+    color:red;
+    font-size: 16px;
+    border-bottom: solid;
+    border-bottom-color: green;
+}
+
+.links{
+    color: blue;
+    text-decoration: blueviolet;
+}
+
+a:hover{
+    background-color: yellow;
+}
